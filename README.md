@@ -161,7 +161,7 @@ p.note { display: none; }
 <h2><span class="yellow">検査が終わって出てくると、ベテランさん達のバンド生演奏</span></h2>
 <a href="20250624_010.JPG" target="_blank"><img src="20250624_010.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">そのままFKDの大戸屋さん、11時の開店5分前ですが列でした</span></h2>
+<h2><span class="yellow">そのままFKDの大戸屋さん、11時の開店5分前ですが入り口に列でした</span></h2>
 <a href="20250624_011.JPG" target="_blank"><img src="20250624_011.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">この日のお天気は雲ひとつない快晴、暑い1日でした</span></h2>
